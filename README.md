@@ -1,3 +1,6 @@
+[![Coverage Status](https://coveralls.io/repos/github/MikhailZarif/lab05_tp/badge.svg?branch=main)](https://coveralls.io/github/MikhailZarif/lab05_tp?branch=main)
+
+
 ## Laboratory work V
 
 Данная лабораторная работа посвещена изучению фреймворков для тестирования на примере **GTest**
